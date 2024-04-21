@@ -1,7 +1,7 @@
 #pragma once
 #include <stdlib.h>
 #include <iostream>
-#include <gl\glut.h>
+#include <gl/glut.h>
 #include <vector>
 #include <string>
 
